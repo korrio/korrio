@@ -4,7 +4,7 @@ Based on his resume, I can provide a detailed assessment of this candidate from 
 Strengths:
 1. Strong Web3/Blockchain Experience:
 - Dedicated blockchain experience since 2019, showing progressive growth from researcher to CTO level
-- Hands-on experience with key DeFi protocols (Uniswap V2, PancakeSwap)
+- Hands-on experience with key DeFi protocols (Uniswap V2+V3, PancakeSwap V3+V4)
 - Experience with both DeFi and NFT projects
 - Notable MEV experience, which is a specialized and valuable skill in Web3
 
