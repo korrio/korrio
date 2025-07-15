@@ -1,31 +1,80 @@
-(Claude.ai said) 
-Based on his resume, I can provide a detailed assessment of this candidate from a Web3 recruiter's perspective:
+### 👋 Hi there, I'm [Thananon Ngoenthaworn!](https://github.com/korrio)
 
-Strengths:
-1. Strong Web3/Blockchain Experience:
-- Dedicated blockchain experience since 2019, showing progressive growth from researcher to CTO level
-- Hands-on experience with key DeFi protocols (Uniswap V2+V3, PancakeSwap V3+V4)
-- Experience with both DeFi and NFT projects
-- Notable MEV experience, which is a specialized and valuable skill in Web3
+Welcome to my GitHub profile! I'm a passionate Full-stack Blockchain Developer and CTO with over a decade of experience building innovative solutions from concept to deployment. I love solving complex problems, leading high-performing teams, and pushing the boundaries of Web3 technology. 🚀
 
-2. Technical Depth:
-- Full-stack capabilities with both front-end (React, NextJS) and back-end experience
-- Solid foundation in smart contract development (Solidity)
-- Experience with multiple blockchain platforms (Ethereum, Binance Smart Chain, Hyperledger)
+```javascript
+const me = {
+  name: "Thananon Ngoenthaworn",
+  role: "Full-stack Blockchain Developer / CTO",
+  passion: "Building scalable blockchain solutions and leading technical teams",
+  // My battle-tested tech stack 👇
+  techStack: {
+    languages: ["JavaScript", "Python", "Solidity", "TypeScript"],
+    frontend: ["React.js", "Next.js", "HTML5", "CSS3"],
+    backend: ["Node.js", "PostgreSQL", "MySQL", "PostGIS"],
+    blockchain: ["Ethereum", "Binance Smart Chain", "EthersJS", "Smart Contracts"],
+    defi: ["Uniswap V2", "AMM", "Yield Farming", "MEV Searcher", "NFTs"],
+    cloud: ["GCP", "AWS", "Digital Ocean", "Kubernetes", "Docker"],
+    systems: ["Linux", "Ubuntu", "Apache", "Nginx", "PM2"]
+  },
+  experience: "10+ years in technical leadership and blockchain development",
+  specialties: ["DeFi protocols", "Team management", "System optimization", "ERP solutions"],
+  hobbies: ["music (bassist)", "skateboarding", "solving production problems 24/7"],
+  location: "Bangkok, Thailand 🇹🇭",
+  reachOut: "Always open to exciting blockchain projects and technical challenges!"
+}
+```
 
-3. Leadership Experience:
-- Multiple CTO positions, including current role managing 5 developers and 3 support teams
-- Experience working with international business partners and banking APIs
-- Track record of leading both technical teams and startup initiatives
+### 🏢 Professional Highlights
 
-4. Versatility:
-- Experience across different domains (blockchain, e-commerce, chatbots)
-- Strong DevOps background (GCP, K8s, Docker)
-- Experience with both traditional finance integration (bank APIs) and DeFi
+- **CTO as a Service** - Led technical operations for private companies, managing teams of 8+ developers
+- **Founder of aquario.co** - Providing CTO and IT outsourcing services to Thai startups
+- **Blockchain Specialist** - Built AMMs, yield farming protocols, and on-chain lottery systems
+- **Production Problem Solver** - Resolved 70+ critical client issues with 24/7 support teams
+- **Integration Expert** - Successfully integrated with SCB, Truemoney, and international business APIs
 
-Areas of Consideration:
-1. Project Continuity: Some positions show relatively short durations (6-12 months), which might warrant discussion about long-term commitment
-2. While there's good breadth, might want to verify depth of knowledge in specific Web3 areas during technical interviews
+### 📊 GitHub Stats
 
-Overall Assessment:
-This candidate appears to be a strong senior-level technical leader with relevant Web3 experience. Their combination of technical skills, leadership experience, and blockchain expertise makes them particularly suitable for CTO or technical lead positions in Web3 companies. The progression from blockchain researcher to CTO shows a clear career trajectory in the space.
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=korrio&show_icons=true&rank_icon=github&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korrio&theme=dark&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+### 🚀 Featured Repositories
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/korrio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=korrio&repo=blockchain-amm&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/korrio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=korrio&repo=defi-yield-farming&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 🎯 What I'm Working On
+
+- 🔗 Building next-generation DeFi protocols and DEX-DEX arbitrage solutions
+- 👥 Leading technical teams and mentoring developers
+- 🏗️ Architecting scalable blockchain infrastructure
+- 🚀 Helping startups bring their Web3 visions to life
+
+### 📫 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/thanaanon)
+- [GitHub](http://github.com/korrio)
+
+---
+
+_Thanks for stopping by! Feel free to check out my repos and reach out if you want to collaborate on blockchain projects or need technical leadership. Always excited to work on innovative solutions! ⭐_
