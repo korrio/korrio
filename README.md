@@ -52,12 +52,12 @@ const me = {
   <tr>
     <td>
       <a href="https://github.com/korrio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=korrio&repo=blockchain-amm&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=korrio&repo=awesome-thai-girl&theme=dark" />
       </a>
     </td>
     <td>
       <a href="https://github.com/korrio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=korrio&repo=defi-yield-farming&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=korrio&repo=luckseeker-bot&theme=dark" />
       </a>
     </td>
   </tr>
