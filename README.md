@@ -65,6 +65,7 @@ const me = {
 
 ### 🎯 What I'm Working On
 
+- 🔗 Currently Building https://hyperjournal.info/ build exclusively for HyperLiquid
 - 🔗 Building next-generation DeFi protocols and DEX-DEX arbitrage solutions
 - 👥 Leading technical teams and mentoring developers
 - 🏗️ Architecting scalable blockchain infrastructure
